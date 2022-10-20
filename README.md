@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+                            ALX GITHUB COLLABORATION WITH SYLVIA WANJIRU ON ALX SOFTWARE ENGINEERING COURSE
 # 0x11. C - printf
 
 **Concepts**
