@@ -263,8 +263,4 @@ All the above options work well together.
 Repo:
 
     GitHub repository: printf
-=======
-#!/bin/bash 
-Team Project 'printf'
-2022
->>>>>>> 86f43919edbf11236b224126e20ad2c2ddfbd3b4
+
